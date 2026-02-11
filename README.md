@@ -96,3 +96,6 @@ The challenge is to accurately predict which customers are likely to leave based
 ## How to Run
 - pip install -r requirements.txt
 - python src/train.py
+
+## Screenshot
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/a1894c2a-b51f-4839-a4ef-e51e415b601d" />
