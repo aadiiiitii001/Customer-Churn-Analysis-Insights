@@ -98,4 +98,11 @@ The challenge is to accurately predict which customers are likely to leave based
 - python src/train.py
 
 ## Screenshot
-<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/a1894c2a-b51f-4839-a4ef-e51e415b601d" />
+Page 1
+<img width="1920" height="1080" alt="page 1" src="https://github.com/user-attachments/assets/a131b7df-41a3-422a-872b-e93e7cbe0850" />
+
+Page 2
+<img width="1920" height="1080" alt="page 2" src="https://github.com/user-attachments/assets/53cd60ef-c859-41a8-b1b2-8c467917dacb" />
+
+Page 3                                                                                                                                                                                                             <img width="1920" height="1080" alt="page 3" src="https://github.com/user-attachments/assets/efdf91fc-7b2b-4605-8593-3295853f21af" />
+
